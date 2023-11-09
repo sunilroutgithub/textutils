@@ -1,2 +1,2 @@
 # textutils
-#[ Used to Manipluate text data]
+Used to Manipluate text data.
